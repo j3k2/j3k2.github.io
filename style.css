@@ -3,8 +3,11 @@ body {
     color: #93a1a1;
     font-family: monospace;
     font-size: 14px;
-    
+    padding: 2em;
+    display: flex;
+    flex-wrap: wrap;
 }
+
 a {
     color: #268bd2;
     text-decoration: none;
@@ -15,50 +18,30 @@ a:hover {
     color: #859900;
 }
 
-.left {
-    float: left;
-}
-
-.right {
-    float: right;
-}
-
 .box {
     border: double 4px #268bd2;
     border-radius: 3px;
     margin: 1px;
+    padding: 20px;
 }
 
-.wrapper {
-    display: flex;  
-    flex-flow: row wrap;
-}
-
-.wrapper > * {
-    padding: 10px;
-    flex: 1 100%;
-}
-
-.header, .footer {
+.header,
+.footer {
     font-size: 32px;
+    width: 100%;
 }
 
 .footer a:hover {
     text-decoration: none;
 }
 
-.main { flex-basis: 720px; }
-.aside { flex-basis: 240px; }
-
-.header { order: 1; }
-.aside { order: 2; } 
-.main { order: 3; }
-.footer { order: 4; }
-
-body {
-    padding: 2em; 
+.main {
+    flex-basis: 720px;
+    flex-grow: 2;
+    padding-right: 40px;
 }
-  
-.aside, .main {
-    padding: 1em;
+
+.aside {
+    flex-basis: 240px;
+    flex-grow: 1;
 }
