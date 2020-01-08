@@ -8,14 +8,14 @@ React, Redux, AngularJS; Webpack, Gulp, Grunt; LESS/SASS, styled-components; Nod
 ### Experience
 **TruValue Labs, Inc.** Jun 2015 - Feb 2018 
 Front End Developer (Full stack web development with front end focus)
+
 * Developing modular, reusable components in AngularJS
 * Using D3 to visualize both dynamic time series data and static data, incorporating custom interactions with other components in the application
 * Contributing at the database/API layer as much as possible (including implementing a full-stack email alert feature)
-* Making performance optimizations from database queries to component rendering
+* Developing front-end build system (including migration from gulp to webpack)
 * Managing overseas contractors in front-end development
 * Maintaining a style guide to improve communication with designers
-* Developing front-end build system (including migration from gulp to webpack)
-* Providing design and product suggestions and assisting with project planning 
+* Providing design and product suggestions and assisting with agile project planning 
 * Working efficiently and making a large impact on a small team (including time spent as the only full-time developer at the company)
 
 ### Projects
@@ -26,8 +26,6 @@ React/Redux app consuming public Petfinder.com API for data on animal shelters a
 
 **react-ftux** ([live](j3k2.github.io/react-ftux) | [source](https://github.com/j3k2/react-ftux))
 React component that implements a first-time user experience tour with custom tooltips. Uses styled-components for styling and Rollup for the build.
-
-**angularjs-webpack-boilerplate** ([source](https://github.com/j3k2/angularjs-webpack-boilerplate)) - Opinionated boilerplate for a modern AngularJS (1.x) application using webpack to create a component-based structure.
 
 ### Education
 **App Academy** 2014
