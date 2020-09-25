@@ -3,7 +3,7 @@ Outer Sunset District, San Francisco, CA
 [j3k2@pm.me](mailto:j3k2@pm.me) / [j3k2.github.io](https://j3k2.github.io)
 
 ### Technologies
-React, Redux, AngularJS; Webpack, Gulp, Grunt; LESS/SASS, styled-components; Node.js, Express.js, Sails.js; MongoDB, Postgres; D3
+React, AngularJS; Webpack, Gulp; CSS/Sass, CSS-in-JS; Node.js, Express.js, Sails.js; MongoDB, PostgreSQL; D3.js
 
 ### Experience
 **TruValue Labs, Inc.** Jun 2015 - Feb 2018 
@@ -21,8 +21,8 @@ Front End Developer (Full stack web development with front end focus)
 ### Projects
 (more details, demos, source code, and older projects available for review at [j3k2.github.io](https://j3k2.github.io))
 
-**Pet Maps** ([live](https://pet-maps.herokuapp.com) | [source](https://github.com/j3k2/pet-maps))
-React/Redux app consuming public Petfinder.com API for data on animal shelters and pets available for adoption. Integrates this data into a map-based UI using Google Maps.
+**Cello** ([live](https://celloapp.herokuapp.com) | [source](https://github.com/j3k2/cello))
+Full-stack kanban app built with PostgreSQL, Node.js, and React, based on Trello. Includes user authentication with JWT. React Context for client-side state management and Knex for SQL query building.
 
 **react-ftux** ([live](j3k2.github.io/react-ftux) | [source](https://github.com/j3k2/react-ftux))
 React component that implements a first-time user experience tour with custom tooltips. Uses styled-components for styling and Rollup for the build.
