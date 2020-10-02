@@ -1,6 +1,7 @@
 ## John Kim
-Outer Sunset District, San Francisco, CA
+San Francisco, CA
 [j3k2@pm.me](mailto:j3k2@pm.me) / [j3k2.github.io](https://j3k2.github.io)
+References available upon request
 
 ### Technologies
 React, AngularJS; Webpack, Gulp; CSS/Sass, CSS-in-JS; Node.js, Express.js, Sails.js; MongoDB, PostgreSQL; D3.js
@@ -19,13 +20,11 @@ Front End Developer (Full stack web development with front end focus)
 * Working efficiently and making a large impact on a small team (including time spent as the only full-time developer at the company)
 
 ### Projects
-(more details, demos, source code, and older projects available for review at [j3k2.github.io](https://j3k2.github.io))
-
 **Cello** ([live](https://celloapp.herokuapp.com) | [source](https://github.com/j3k2/cello))
-Full-stack kanban app built with PostgreSQL, Node.js, and React, based on Trello. Includes user authentication with JWT. React Context for client-side state management and Knex for SQL query building.
+Full-stack kanban app built with PostgreSQL, Node.js, and React, based on Trello. Includes user authentication with JWT. Uses React Context for client-side state management and Knex for SQL query building.
 
-**react-ftux** ([live](j3k2.github.io/react-ftux) | [source](https://github.com/j3k2/react-ftux))
-React component that implements a first-time user experience tour with custom tooltips. Uses styled-components for styling and Rollup for the build.
+**react-ftux** ([demo](j3k2.github.io/react-ftux) | [source](https://github.com/j3k2/react-ftux))
+React component that implements a first-time user experience tour with custom tooltips. Uses styled-components for styling and Rollup for bundling. Uses React Context/Hooks to manage state for tooltips located across the application component tree.
 
 ### Education
 **App Academy** 2014
