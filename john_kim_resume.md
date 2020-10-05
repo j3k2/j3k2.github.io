@@ -1,7 +1,6 @@
 ## John Kim
-San Francisco, CA
-[j3k2@pm.me](mailto:j3k2@pm.me) / [j3k2.github.io](https://j3k2.github.io)
-References available upon request
+San Francisco, CA / [j3k2@pm.me](mailto:j3k2@pm.me) / [j3k2.github.io](https://j3k2.github.io)
+References available on request
 
 ### Technologies
 React, AngularJS; Webpack, Gulp; CSS/Sass, CSS-in-JS; Node.js, Express.js, Sails.js; MongoDB, PostgreSQL; D3.js
@@ -11,8 +10,9 @@ React, AngularJS; Webpack, Gulp; CSS/Sass, CSS-in-JS; Node.js, Express.js, Sails
 Front End Developer (Full stack web development with front end focus)
 
 * Developing modular, reusable components in AngularJS
+* Developing RESTful API endpoints using Node/Express
+* Writing performant MongoDB queries and maintaining database collections to accommodate evolving data and application requirements
 * Using D3 to visualize both dynamic time series data and static data, incorporating custom interactions with other components in the application
-* Contributing at the database/API layer as much as possible (including implementing a full-stack email alert feature)
 * Developing front-end build system (including migration from gulp to webpack)
 * Managing overseas contractors in front-end development
 * Maintaining a style guide to improve communication with designers
